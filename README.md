@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./.github/logo.png" width="250px" alt="Happy"/>
+  <img src="./.github/logo.png" width="100px" alt="Happy"/>
 </div>
 
 <h3 align="center">
